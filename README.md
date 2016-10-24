@@ -81,8 +81,9 @@ This is an example of a silhouette plot with two clusters.
 ----
 
 ###Conclution
-In the project_script.R you will see the hole procedure of making clusters in a different ways. 
-After a number of tries of making clusters in variaty ways, we arrived at the conclusion that there is a strong affection in the Area and the acidity of the oils. The data are clustered by their variables of acidity, so we conduce to two groups with oils which are containing some hole territories. In other words these groups show us that some Italy areas bear better oliveoil than others. For example the cluster analysis shows that the oil of Sardinia have high levels of acidity so it is not so qualitative.
+After a number of tries of making clusters we arrived at the conclusion that there is a strong affection in the Area and the acidity of the oils. The data clustered by variables of acidity, so we conduce in two groups with oils. In other words these groups show us that some Italy areas bear better oliveoil than others. For example the cluster analysis shows that the oil of Sardinia has high levels acidity consequently it is not so qualitative.
+
+> In the project_script.R you will see the hole procedure of making clusters in different ways. Hope to enjoy....
 
 
 
