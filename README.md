@@ -3,14 +3,14 @@
 ##Abstract
 In this project we are concered about making clusters of some olive_oils came from various areas in Italy. These clusters must be made 
 according to the acidity, so the quality of the oils. In this way we can decide which place in Italy has the best oil.
-The data_set we have contains 572 samples of oils, two categorical variables and eight quantitative variables that they have to do with the acidity of oils.
+The data_set we have contains 572 samples of oils, two factorial variables and eight quantitative variables that they have to do with the acidity of oils.
 
 ###Acidity
 Acidity of oliveoils is a significant criterion that defines the quality of the oil. As the acidity is in low levels, as the  quality of the oil will be good.
 Typically the oils that have a good taste and smell, have low acidity too for example under 0.8%. 
 
 ###Variables
-We have two categorical and eight quantitative variables which are sown below. 
+We have two factorial variables and eight quantitative which are shown below. 
 
 + Region (1=South, 2=Sardinia, 3=North)
 + Area (1=North Apulia, 2=Calabria, 3=South Apulia, 4=Sicily, 5=Inland Sardinia,6=Coastal Sardinia, 7=Umbria, 8=East Liguria, 9=West Liguria
