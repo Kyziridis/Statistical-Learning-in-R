@@ -1,16 +1,16 @@
 # Statistical Learning in R
 
 ##Abstract
-In this project we are concered about making clusters of some olive_oils came from various areas in Italy. These clusters must be made 
-according to the acidity, so the quality of the oils. In this way we can decide which place in Italy has the best oil.
-The data_set we have contains 572 samples of oils, two factorial variables and eight quantitative variables that they have to do with the acidity of oils.
+In this project we are interested in creating clusters of some olive_oil originated from various areas in Italy. These clusters must be made 
+according to the acidity, which depends on the quality of the oil.This way we can decide which place in Italy has the best oil.
+The data_set we have contains 572 samples of oils, two factorial variables and eight quantitative variables which have to do with the acidity of oils.
 
 ###Acidity
 Acidity of oliveoils is a significant criterion that defines the quality of the oil. As the acidity is in low levels, as the  quality of the oil will be good.
-Typically the oils that have a good taste and smell, have low acidity too for example under 0.8%. 
+Typically the oils that have a good taste and smell, have low acidity too. An appropriate percentage would be under 0.8%. 
 
 ###Variables
-We have two factorial variables and eight quantitative which are shown below. 
+We have two factorial variables and eight quantitative which are presented below. 
 
 + Region (1=South, 2=Sardinia, 3=North)
 + Area (1=North Apulia, 2=Calabria, 3=South Apulia, 4=Sicily, 5=Inland Sardinia,6=Coastal Sardinia, 7=Umbria, 8=East Liguria, 9=West Liguria
