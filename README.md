@@ -1,15 +1,15 @@
 # Statistical Learning in R
 
-##Abstract
+## Abstract
 In this project we are interested in creating clusters of some olive_oil originated from various areas in Italy. These clusters must be made 
 according to the acidity, which depends on the quality of the oil.This way we can decide which place in Italy has the best oil.
 The data_set we have contains 572 samples of oils, two factorial variables and eight quantitative variables which have to do with the acidity of oils.
 
-###Acidity
+### Acidity
 Acidity of oliveoils is a significant criterion that defines the quality of the oil. As the acidity is in low levels, as the  quality of the oil will be good.
 Typically the oils that have a good taste and smell, have low acidity too. An appropriate percentage would be under 0.8%. 
 
-###Variables
+### Variables
 We have two factorial variables and eight quantitative which are presented below. 
 
 + Region (1=South, 2=Sardinia, 3=North)
@@ -33,7 +33,7 @@ We have two factorial variables and eight quantitative which are presented below
 
 ----
 
-###Some basic information about the method we will develope
+### Some basic information about the method we will develope
 [Hierarhical Clustering](http://www.saedsayad.com/clustering_hierarchical.htm) is a way to make clusters of observations and it is based on distance methods.
 The basic idea in this project is first to examine our data and analyse them in order to see some discriptive statistics such us correlation/variance/mean/kurtosis etc.
 Then we have to find wich variables are usefull to our clustering issue.More specifically which are the significant variables that deduce the quality of the oil and help us to classify the data into groups.
@@ -42,7 +42,7 @@ The purpose is to make compact groups where the observations will be alike into 
 
 -----
 
-###Let's have a look on data
+### Let's have a look on data
 Let's see a matrix scatterplot of the dataset, coloured by the Region. This is without some variables in a way to visualize it correctly.
 
 [![matrix.png](https://s12.postimg.org/kaathasz1/matrix.png)](https://postimg.org/image/4othxch0p/)
